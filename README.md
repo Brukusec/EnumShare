@@ -13,7 +13,7 @@ This Python script is designed to enumerate SMB shares on remote hosts, check pe
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/smb_enum_shell.git
+   git clone https://github.com/Brukusec/EnumShare.git
    cd smb_enum_shell
 
 2. **Install the required dependencies:**
